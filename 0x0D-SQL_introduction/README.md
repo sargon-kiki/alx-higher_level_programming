@@ -1,3 +1,5 @@
 # Understanding the basics of sql
- I have completed a set of exercise to understand
- the basics of sql
+
+
+### List and group items from sql
+## Aggregation using sql
